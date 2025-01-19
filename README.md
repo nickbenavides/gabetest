@@ -9,3 +9,9 @@ Authenticate with the cli
 ```shell
 gh auth login
 ```
+
+- Make a new repository
+- Clone the repository
+- Add a file commit and push
+- Make a branch
+- Make a pull request (PR)
