@@ -10,9 +10,13 @@ Authenticate with the cli
 gh auth login
 ```
 
-- Make a new repository
+- Make a new repository 
+```
+git init
+```
 - Clone the repository
 - Add a file commit and push
 - Make a branch
 - Make a pull request (PR)
 - explore github actions
+- tron project
